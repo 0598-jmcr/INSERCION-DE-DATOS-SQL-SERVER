@@ -6,18 +6,18 @@ insert into CLIENTE values
 (5,'Dayanna Jamileth','Coveña Moreira','1314562335','dayanna@gmail.com','0985555555','43566');
 
 insert into SECTOR values
-(1,'Urbirrios'),
-(2,'Cuba'),
+(1,'Los Elextricos'),
+(2,'Barrio Cuba'),
 (3,'Los Esteros'),
-(4,'El Palmar'),
+(4,'Villamarina'),
 (5,'Costa Azul');
 
 insert into SALDO values
-(1,1,'05-05-2020',25),
+(1,1,'04-05-2020',25),
 (2,2,'04-05-2020',25),
 (2,2,'04-06-2020',30),
 (2,2,'04-07-2020',23),
 (2,2,'04-08-2020',28),
-(3,3,'06-06-2020',30),
-(4,3,'05-05-2020',15),
-(5,5,'08-07-2020',18);
+(3,3,'04-06-2020',30),
+(4,3,'04-05-2020',15),
+(5,5,'04-07-2020',18);
